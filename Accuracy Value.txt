@@ -1,0 +1,23 @@
+
+1/1 [==============================] - 62s 62s/step - loss: 0.7093 - accuracy: 0.5000 - val_loss: 0.9152 - val_accuracy: 0.0000e+00
+Epoch 2/10
+1/1 [==============================] - 2s 2s/step - loss: 0.6044 - accuracy: 0.7500 - val_loss: 0.9367 - val_accuracy: 0.0000e+00
+Epoch 3/10
+1/1 [==============================] - 2s 2s/step - loss: 0.5858 - accuracy: 0.7500 - val_loss: 1.0114 - val_accuracy: 0.0000e+00
+Epoch 4/10
+1/1 [==============================] - 2s 2s/step - loss: 0.5345 - accuracy: 0.7500 - val_loss: 1.1185 - val_accuracy: 0.0000e+00
+Epoch 5/10
+1/1 [==============================] - 2s 2s/step - loss: 0.4672 - accuracy: 0.7500 - val_loss: 1.2017 - val_accuracy: 0.0000e+00
+Epoch 6/10
+1/1 [==============================] - 2s 2s/step - loss: 0.4149 - accuracy: 0.7500 - val_loss: 1.3155 - val_accuracy: 0.0000e+00
+Epoch 7/10
+1/1 [==============================] - 2s 2s/step - loss: 0.3251 - accuracy: 0.7500 - val_loss: 1.4492 - val_accuracy: 0.0000e+00
+Epoch 8/10
+1/1 [==============================] - 2s 2s/step - loss: 0.2862 - accuracy: 0.7500 - val_loss: 1.4693 - val_accuracy: 0.0000e+00
+Epoch 9/10
+1/1 [==============================] - 2s 2s/step - loss: 0.2648 - accuracy: 1.0000 - val_loss: 1.5267 - val_accuracy: 0.0000e+00
+Epoch 10/10
+1/1 [==============================] - 2s 2s/step - loss: 0.1772 - accuracy: 1.0000 - val_loss: 1.5960 - val_accuracy: 0.0000e+00
+
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
